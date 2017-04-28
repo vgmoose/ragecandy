@@ -1,6 +1,10 @@
 # Rage Candy
 A Pokemon Stadium 2 save editor and exporter. **Work in progress!**
 
+Since this program's conception, [a working Stadium 2 dumper](https://projectpokemon.org/forums/forums/topic/40200-gen-2-pokémon-stadium-2-gs-savefile-structure-also-a-dumper-for-registered-teams/) has been posted by @suloku
+
+For dumping save files from a cartridge, [see this wiki](https://github.com/sanni/cartreader/wiki).
+
 ## Usage
 To use ragecandy, run the program with python. You can either specify a n64 save file as the first argument, 
 or enter the path to it when the program prompts for it.
